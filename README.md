@@ -1,4 +1,4 @@
-## Olá, Getúlio Castro, desenvolvedor Python Back-End e WEB!!! 👋
+## Olá, sou Getúlio Castro, desenvolvedor Python Back-End e WEB!!! 👋
 
 
 - 🔭 Atualmente trabalho como suporte técnico em sistemas web e mobile na [Sisac Brasil Sistemas](https://www.sisacbrasil.com.br/)
