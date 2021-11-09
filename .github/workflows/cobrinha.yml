@@ -8,7 +8,7 @@ sobre:
 empregos:
   construir:
     nome: Trabalhos para atualizar dados
-    roda em: ubuntu-mais recente
+    roda em: windows-mais recente
     degraus:
       # Animação de cobra
       - usa: Platane / snk @ master
