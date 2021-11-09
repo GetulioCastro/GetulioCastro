@@ -15,7 +15,7 @@
   <img align="center" alt="Getulio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Getulio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Getulio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Getulio-Avatar" height="30" width="40" src="https://drive.google.com/file/d/1ztiiLN-Q4Vd2EZwLWwaF3zvRVeSSrBTe/view?usp=sharing">
+  <img align="right" alt="Getulio-Avatar" height="90" width="60" src="https://github.com/GetulioCastro/GetulioCastro/blob/main/assets/Gg4.gif">
 </div>
   
 <hr/>
@@ -28,6 +28,8 @@
 </div>
 
 <hr/>
+  
+![Snake animation](https://github.com/GetulioCastro/GetulioCastro/blob/output/github-contribution-grid-snake.svg)
 
 
 
