@@ -6,7 +6,7 @@
 
 ##
 
-  ### Links para LinkedIn e GitHub (repositórios)
+  ### "Ranking pessoal" de movimentações
 
 <div>
   <a href="www.linkedin.com/in/getulio-castro-jr">
