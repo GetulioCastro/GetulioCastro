@@ -37,7 +37,7 @@
 <hr/>
   
 ![Snake animation](https://github.com/GetulioCastro/GetulioCastro/blob/output/github-contribution-grid-snake.svg)
-[![@gecastro's Holopin board](https://holopin.io/api/user/board?user=gecastro)](https://holopin.io/@gecastro)
+
 
 
 
