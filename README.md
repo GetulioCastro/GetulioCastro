@@ -1,8 +1,8 @@
 ## Olá, sou Getúlio Castro, desenvolvedor Python e C# Back-End e WEB!!! 👋
 
 
-- 🔭 Atualmente trabalho como suporte técnico em sistemas web e mobile na [Sisac Brasil Sistemas](https://www.sisacbrasil.com.br/)
-- 🌱 Estou estudando a linguagem de programação Python com o framework Django
+- 🔭 Atualmente trabalho como suporte técnico em sistemas web e mobile na [Sisac Brasil Sistemas](https://www.sisacinova.com.br/)
+- 🌱 Estou estudando a linguagem de programação C# (Cê Sharp) utilizando .NET Framework
 
 ##
 
