@@ -21,7 +21,6 @@
   <img align="center" alt="Getulio-VSCode" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="right" alt="Getulio-Avatar" height="90" width="60" src="https://github.com/GetulioCastro/GetulioCastro/blob/main/assets/Gg4.gif">
   <img align="center" alt="Getulio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Getulio-DotNet" height="30" width="40" src="C:\Users\Getulio\Pictures\Saved Pictures" />
 </div>
   
 ##
