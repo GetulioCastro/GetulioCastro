@@ -1,8 +1,8 @@
 ## Olá, sou Getúlio Castro, desenvolvedor C# Back-End e WEB!!! 👋
 
 
-- 🔭 Atualmente trabalho como suporte técnico em sistemas web e mobile na [Sisac Inova Tecnologia Ltda](https://www.sisacinova.com.br/)
-- 🌱 Estou estudando a linguagem de programação C# (Cê Sharp) utilizando .NET Framework
+- 🔭 Trabalho com desenvolviemnto de sistemas Web (Delphi com uniGUI) na [Sisac Brasil Sistemas Ltda]([https://www.sisacbrasil.com.br/])
+- 🌱 Mantenho horários de educação continuada com as linguagens Object Pascal (ecossistema Delphi) e C# (ecossistema .Net)
 
 ##
 
